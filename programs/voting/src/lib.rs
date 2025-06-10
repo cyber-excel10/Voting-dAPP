@@ -10,7 +10,7 @@ use instructions::*;
 use state::*;
 use error::*;
 
-declare_id!();
+declare_id!();   // For now it is still empty it as not  yet be deployed on a testnet..
 
 #[program]
 pub mod globalvote{
