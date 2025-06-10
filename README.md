@@ -27,7 +27,7 @@ No matter your experience, there’s a way to help. I’ve broken it down into l
 - **Tools**: Rust, Solana CLI, Circom, Node.js, Docker.
 - **Example**: Code a ZKP circuit for voter eligibility
 
-* Not sure where to start? Open an [Issue](https://github.com/cyber-excel10/Voting-dAPP)
+* Not sure where to start? Open an [Issue](https://github.com/cyber-excel10/Voting-dAPP/issues)
 
 ## 📋 Project Status
 - **Current Stage**: Planning and prototyping (I’m setting up Rust smart contracts and React frontend).
@@ -36,7 +36,7 @@ No matter your experience, there’s a way to help. I’ve broken it down into l
   - Are ZKPs too complex for small polls?
   - How to secure offline QR voting?
   - Which features (e.g., mobile app vs. proxy voting) to prioritize?
-- **Your Input**: Suggest fixes or new ideas via [Issues]().
+- **Your Input**: Suggest fixes or new ideas via [Issues](https://github.com/cyber-excel10/Voting-dAPP/issues).
 
 ## 🔧 Getting Started
 1. **Star/Fork this Repo**: Stay updated or clone to contribute.
